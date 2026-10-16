@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void) {
-    puts("Hola desde Sistemas Operativos");
+    puts("Mi programa ya está en GitHub");
 return 0;
 }
